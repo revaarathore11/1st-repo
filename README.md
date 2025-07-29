@@ -1,4 +1,5 @@
 # 1st-repo
 this is my first git repo
 <br>
-author - revaa rathore
+author - Revaa Rathore
+
